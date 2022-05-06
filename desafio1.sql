@@ -121,7 +121,7 @@ INSERT INTO songs(song_name, song_length, album_id)
 VALUES ('Baby',136,10),
 ('Celebration Of More',146,4),
 ('Dance With Her Own',116,1),
-('Diamond Power',190,6),
+('Diamond Power',241,6),
 ('Fantasy For Me',100,4),
 ('Finding My Traditions',179,7),
 ('Hard And Time',135,7),
@@ -137,7 +137,7 @@ VALUES ('Baby',136,10),
 ('I Heard I Want To Bo Alone',120,9),
 ('I Know I Know',117,8),
 ('I Ride Alone',151,9),
-('Let''s Be Silly',166,8),
+('Let''s Be Silly',132,8),
 ('Magic Circus',105,3),
 ('Need Of The Evening',190,6),
 ('Reflections Of Magic',163,1),
@@ -156,8 +156,8 @@ VALUES ('Baby',136,10),
 ('Words Of Her Life',185,5),
 ('Wouldn''t It Be Nice',213,10),
 ('You Cheated On Me',95,10),
-('You Make Me Feel So..',203,2),
-('Young And Father',240,5);
+('You Make Me Feel So..',83,2),
+('Young And Father',197,5);
 
 INSERT INTO plays(user_id, song_id, play_date)
 VALUES (6,8,'2017-01-24 00:31:17'),
